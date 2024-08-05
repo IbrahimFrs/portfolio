@@ -1,0 +1,9 @@
+/.eslintrc.cjs
+/.firebase
+/.firebaserc
+/dist
+/firebase.json
+/node_modules
+/package-lock.json
+/package.json
+/vite.config.js
